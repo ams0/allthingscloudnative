@@ -28,7 +28,8 @@ nav:
     - Getting started: security/index.md
   - Azure Kubernetes:
     - Getting started: aks/index.md
-
+  - Openshift:
+    - Getting started: openshift/index.md
   - References:
     - Additional resources: references/RESOURCES.md
     - Contributors: references/CONTRIBUTORS.md
