@@ -22,6 +22,13 @@ nav:
     - Lab 2: lab2.md
   - Kubernetes:
     - Getting started: kubernetes/index.md
+    - CLI:
+      - CLIs: kubernetes/cli/index.md
+      - kubectl: kubernetes/cli/kubectl.md
+      - kubectx: kubernetes/cli/kubectx.md
+      - kubens: kubernetes/cli/kubens.md
+      - minikube: kubernetes/cli/minikube.md
+      - kubeadm: kubernetes/cli/kubeadm.md
   - Observability:
     - Getting started: observability/index.md
   - Security:
