@@ -29,6 +29,19 @@ copyright: Copyright &copy; 2023 Lovelace Engineering B.V.
 
 # Theme
 theme:
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   name: material
   font:
     text: IBM Plex Sans
@@ -38,10 +51,6 @@ theme:
   features:
     - navigation.tabs
     #- navigation.instant
-  palette:
-    scheme: default
-    primary: blue
-    accent: blue
 
 # Plugins
 plugins:
@@ -51,15 +60,15 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ibm
+      link: https://github.com/ams0
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/ibmdeveloper
+      link: https://twitter.com/lovelaceeng
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/ibm/
+      link: https://www.linkedin.com/company/lovelace-engineering/
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/user/developerworks
+      link: https://www.youtube.com/user/cloudnativeams
     - icon: fontawesome/brands/dev
-      link: https://dev.to/ibmdeveloper
+      link: https://dev.to/ams0
 
 # Extensions
 markdown_extensions:

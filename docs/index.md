@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to All Tings Cloud Native Workshop
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
