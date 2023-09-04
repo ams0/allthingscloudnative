@@ -1,10 +1,9 @@
 # Welcome to All Tings Cloud Native Workshop
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is the companion hands-on workshop for the All Things Cloud Native presentation.  The workshop is designed to be self-paced and self-guided.  The workshop is broken into multiple sections, with navigation links at the top of each page.  The workshop is designed to be completed in order, but you can jump around if you like.
+## Sections
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
+* `Containers` - All things about Docker/Podman containers
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
