@@ -26,6 +26,8 @@ nav:
     - Getting started: observability/index.md
   - Security:
     - Getting started: security/index.md
+  - Azure Kubernetes:
+    - Getting started: aks/index.md
 
   - References:
     - Additional resources: references/RESOURCES.md
