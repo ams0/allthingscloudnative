@@ -20,3 +20,6 @@ docker run ‐d ‐‐cap‐drop=all
               ‐‐cap‐add=setuid
               ‐‐cap‐add=setgid <image>
 ```
+!!! note
+
+    Privliedged containers are not recommended for production use.
