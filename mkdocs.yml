@@ -29,9 +29,10 @@ nav:
       - CLIs: kubernetes/cli/index.md
       - kubectl: kubernetes/cli/kubectl.md
       - kubectx: kubernetes/cli/kubectx.md
-      - kubens: kubernetes/cli/kubens.md
       - minikube: kubernetes/cli/minikube.md
       - kubeadm: kubernetes/cli/kubeadm.md
+      - krew: kubernetes/cli/krew.md
+      - Completion: kubernetes/cli/completion.md
   - Observability:
     - Getting started: observability/index.md
   - Security:

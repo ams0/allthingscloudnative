@@ -1,5 +1,15 @@
 # Getting started with Kubernetes
 
+## Outcomes
+
+You should be able to:
+
+- Understand the install and use a Kubernetes runtime and client
+- Deploy a simple application
+- Understand how to scale an application
+
+## Outline
+
 1. Run Kubernetes
 
 You can choose your tools but we recommend either [minikube](https://github.com/kubernetes/minikube), [kind](https://kind.sigs.k8s.io) or [microk8s](https://microk8s.io)
