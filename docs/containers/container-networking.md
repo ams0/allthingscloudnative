@@ -8,8 +8,8 @@ You should be able to:
 
 - Understand docker networking
 
-
-## Docker networking
+#Outline
+1. Docker networking
 
 ```bash
 docker run ‐‐net=none busybox ifconfig
