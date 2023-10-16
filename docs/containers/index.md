@@ -10,6 +10,7 @@ You should be able to:
 - Containerize an application
 
 #Outline
+
 1. Install Docker
 
     The best way, on Linux nodes, is to use the script:

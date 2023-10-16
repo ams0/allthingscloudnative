@@ -23,10 +23,17 @@ nav:
     - Working with images: containers/working-with-images.md
     - Container Networking: containers/container-networking.md
     - Priviledged Containers: containers/privileged-containers.md
+    - Podman: containers/podman.md
+    - Container Security: containers/container-security.md
+    - Container Registries: containers/container-registries.md
   - Kubernetes:
     - Getting started: kubernetes/index.md
     - Explore the cluster: kubernetes/cluster.md
     - Deploy an app: kubernetes/deploy.md
+    - Explore the APIs: kubernetes/api.md
+    - Namespaces: kubernetes/ns.md
+    - Logs: kubernetes/logs.md
+    - Jobs and Cronjobs: kubernetes/job-cronjob.md
     - CLI:
       - CLIs: kubernetes/cli/index.md
       - kubectl: kubernetes/cli/kubectl.md
@@ -36,6 +43,9 @@ nav:
       - krew: kubernetes/cli/krew.md
       - Completion: kubernetes/cli/completion.md
       - Docker Desktop: kubernetes/cli/docker-desktop.md
+      - Stern: kubernetes/cli/stern.md
+  - Helm:
+    - Getting started: helm/index.md
   - Observability:
     - Getting started: observability/index.md
   - Security:

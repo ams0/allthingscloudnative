@@ -35,3 +35,12 @@ kubectl apply -f nginx2.yaml
 kubectl delete deployment
 kubectl get pods
 ```
+
+4. Inspect the deployment
+
+```bash
+kubectl get deployment nginx -o json
+kubectl get deployment nginx -o yaml
+kubectl get deployment nginx -o wide
+kubectl get deployment nginx -o jsonpath='{.spec}'
+```
