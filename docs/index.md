@@ -4,9 +4,11 @@ This is the companion hands-on workshop for the All Things Cloud Native presenta
 ## Sections
 
 * `Containers` - All things about Docker/Podman containers
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `Kubernetes` - The core Kubernetes concepts
+* `Observability` - Observability and telemetry related workshops.
+* `Azure Kubernetes` - For the Azure Managed Kubernetes Service.
+* `Openshift` - All the Openshift-related material.
+* `References` - Miscellaneus.
 
 ## Project layout
 
