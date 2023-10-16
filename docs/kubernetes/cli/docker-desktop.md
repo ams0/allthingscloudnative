@@ -1,0 +1,3 @@
+# Docker Desktop
+
+[Docker Desktop](https://www.docker.com/products/docker-desktop/) includes a single-node Kubernetes cluster that runs on your Mac or Windows machine. It also includes a standalone Kubernetes server and client, as well as Docker CLI integration. It is the preferred way to get started with Kubernetes on your local machine, as it makes it very easy to expose services running in Kubernetes to your local machine via localhost.

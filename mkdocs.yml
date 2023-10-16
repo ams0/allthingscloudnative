@@ -35,6 +35,7 @@ nav:
       - kubeadm: kubernetes/cli/kubeadm.md
       - krew: kubernetes/cli/krew.md
       - Completion: kubernetes/cli/completion.md
+      - Docker Desktop: kubernetes/cli/docker-desktop.md
   - Observability:
     - Getting started: observability/index.md
   - Security:
