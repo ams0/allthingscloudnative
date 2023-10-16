@@ -25,6 +25,8 @@ nav:
     - Priviledged Containers: containers/privileged-containers.md
   - Kubernetes:
     - Getting started: kubernetes/index.md
+    - Deploy an app: kubernetes/deploy.md
+
     - CLI:
       - CLIs: kubernetes/cli/index.md
       - kubectl: kubernetes/cli/kubectl.md
