@@ -1,4 +1,7 @@
-# Context and kubeconfig
+# Accessing Kubernetes Clusters
+
+## Context and kubeconfig
+
 `kubectl` allows a user to interact with and manage multiple Kubernetes clusters. To do this, it requires what is known
 as a context. A context consists of a combination of `cluster`, `namespace` and `user`.
 * **cluster** - A friendly name, server address, and certificate for the Kubernetes cluster.
