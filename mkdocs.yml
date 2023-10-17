@@ -49,6 +49,10 @@ nav:
       - Advanced: kubernetes/advanced/index.md
       - Init Containers: kubernetes/advanced/init-containers.md
       - Rolling Upgrades: kubernetes/advanced/rolling-upgrades.md
+    - Cluster Management:
+      - Nodes: kubernetes/nodes/index.md
+    - ConfigMaps and Secrets:
+      - ConfigMaps and Secrets: kubernetes/configsecrets/index.md
     - CLI:
       - CLIs: kubernetes/cli/index.md
       - kubectl: kubernetes/cli/kubectl.md
