@@ -24,13 +24,17 @@ nav:
     - Container Networking: containers/container-networking.md
     - Priviledged Containers: containers/privileged-containers.md
     - Podman: containers/podman.md
+    - Volumes: containers/volumes.md
     - Container Security: containers/container-security.md
     - Container Registries: containers/container-registries.md
   - Kubernetes:
     - Getting started: kubernetes/index.md
+    - Kubeconfig: kubernetes/config.md
     - Explore the cluster: kubernetes/cluster.md
     - Deploy an app: kubernetes/deploy.md
     - Explore the APIs: kubernetes/api.md
+    - Services: kubernetes/services.md
+    - Labels and Selectors: kubernetes/labels.md
     - Namespaces: kubernetes/ns.md
     - Logs: kubernetes/logs.md
     - Jobs and Cronjobs: kubernetes/job-cronjob.md

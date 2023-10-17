@@ -130,5 +130,3 @@ You should be able to:
     ```bash
     docker run hello:multibuild
     ```
-    
-    
