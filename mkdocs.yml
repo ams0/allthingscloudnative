@@ -41,6 +41,13 @@ nav:
       - Workloads: kubernetes/workloads/index.md
       - StatefulSets: kubernetes/workloads/statefulsets.md
       - Jobs and Cronjobs: kubernetes/workloads/job-cronjob.md
+    - Networking:
+      - Networking: kubernetes/networking/index.md
+      - Network Policies: kubernetes/networking/network-policies.md
+    - Advanced:
+      - Advanced: kubernetes/advanced/index.md
+      - Init Containers: kubernetes/advanced/init-containers.md
+      - Rolling Upgrades: kubernetes/advanced/rolling-upgrades.md
     - CLI:
       - CLIs: kubernetes/cli/index.md
       - kubectl: kubernetes/cli/kubectl.md
