@@ -37,7 +37,10 @@ nav:
     - Labels and Selectors: kubernetes/labels.md
     - Namespaces: kubernetes/ns.md
     - Logs: kubernetes/logs.md
-    - Jobs and Cronjobs: kubernetes/job-cronjob.md
+    - Workloads:
+      - Workloads: kubernetes/workloads/index.md
+      - StatefulSets: kubernetes/workloads/statefulsets.md
+      - Jobs and Cronjobs: kubernetes/workloads/job-cronjob.md
     - CLI:
       - CLIs: kubernetes/cli/index.md
       - kubectl: kubernetes/cli/kubectl.md
