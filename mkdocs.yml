@@ -43,6 +43,7 @@ nav:
       - Jobs and Cronjobs: kubernetes/workloads/job-cronjob.md
     - Networking:
       - Networking: kubernetes/networking/index.md
+      - DNS: kubernetes/networking/dns.md
       - Network Policies: kubernetes/networking/network-policies.md
     - Advanced:
       - Advanced: kubernetes/advanced/index.md
@@ -68,6 +69,11 @@ nav:
     - Getting started: aks/index.md
   - Openshift:
     - Getting started: openshift/index.md
+    - Command line: openshift/oc.md
+    - Configuration: openshift/configuration.md
+    - Usage: openshift/usage.md
+    - Installation: openshift/installation.md
+    - Development: openshift/development.md
   - References:
     - Additional resources: references/RESOURCES.md
     - Contributors: references/CONTRIBUTORS.md
