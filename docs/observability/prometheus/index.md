@@ -187,4 +187,3 @@ Once Prometheus is added as a data source, you can create dashboards using PromQ
 ## Summary
 
 Prometheus is a powerful and flexible monitoring tool that is well-suited for Kubernetes environments. By collecting and analyzing metrics, setting up alerts, and integrating with Grafana, Prometheus helps ensure the reliability and performance of your cluster and applications. Prometheus’s scalability and ease of integration with other tools like Alertmanager and Grafana make it an essential tool in any Kubernetes monitoring stack.
-```

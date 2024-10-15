@@ -160,4 +160,3 @@ These dashboards help in identifying issues and trends quickly.
 ## Summary
 
 Centralized logging in Kubernetes is crucial for effective troubleshooting and monitoring. By deploying the **EFK stack** (Elasticsearch, Fluentd, Kibana), you can collect logs from all containers and nodes, store them efficiently, and visualize them through Kibana. This provides valuable insights into the behavior of your applications and helps identify and resolve issues quickly. Implementing best practices for logging will ensure that your Kubernetes environment remains performant and manageable.
-```

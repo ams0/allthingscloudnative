@@ -102,4 +102,3 @@ Jaeger will collect traces from your applications, enabling you to view traces t
 ## Summary
 
 Observability in Kubernetes involves monitoring, logging, and tracing the behavior of clusters and workloads. By leveraging tools like **Prometheus** for metrics, **Grafana** for visualization, **EFK** for logging, and **Jaeger** for tracing, you can gain deep insights into your system's health and performance. Implementing a comprehensive observability strategy is essential for maintaining the reliability and performance of your Kubernetes applications.
-```
