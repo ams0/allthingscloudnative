@@ -6,7 +6,7 @@ You should be able to:
 
 - Understand how to limit container capabilities
 
-#Outline
+## Outline
 
 Create a container that drops the CHOWN capability:
 
