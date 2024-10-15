@@ -69,6 +69,11 @@ nav:
     - Getting started: observability/index.md
   - Security:
     - Getting started: security/index.md
+    - Network Policies: security/network-policies.md
+    - RBAC: security/rbac.md
+    - Pod security: security/pod-security.md
+    - Secrets Management: security/secrets-managements.md
+    - Service Accounts: security/serviceaccounts.md
   - Azure Kubernetes:
     - Getting started: aks/index.md
   - Openshift:
