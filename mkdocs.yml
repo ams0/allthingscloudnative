@@ -21,6 +21,7 @@ nav:
     - Getting started: containers/index.md
     - Create an app: containers/create-app.md
     - Working with images: containers/working-with-images.md
+    - Local registries: containers/local-registries.md
     - Container Networking: containers/container-networking.md
     - Priviledged Containers: containers/privileged-containers.md
     - Podman: containers/podman.md
