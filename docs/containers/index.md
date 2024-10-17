@@ -1,6 +1,6 @@
 # Containers
 
-Getting started:
+Getting started with containers is easy! Follow along and ask questions, we're here to help.
 
 #Outcomes
 
