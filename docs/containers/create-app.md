@@ -155,9 +155,10 @@ This Flask application listens on port 5000 and returns a simple "Hello, Docker!
     ```
 
 - requirements.txt
-    This file lists the Python dependencies needed for the app. In this case, you only need Flask:
+    This file lists the Python dependencies needed for the app. In this case, you only need Flask and Werkzeug:
 
     ```makefile
+    Werkzeug==2.2.2
     Flask==2.0.2
     ```
 
