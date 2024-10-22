@@ -64,6 +64,8 @@ nav:
       - Completion: kubernetes/cli/completion.md
       - Docker Desktop: kubernetes/cli/docker-desktop.md
       - Stern: kubernetes/cli/stern.md
+    - Troubleshooting:
+      - Troubleshooting: kubernetes/troubleshooting/index.md
   - Helm:
     - Getting started: helm/index.md
   - Observability:
