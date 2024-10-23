@@ -8,6 +8,7 @@ Slides are [here](https://drive.google.com/drive/folders/1_kjsyUbZyeMVrKHl_vp8iG
 
 * `Containers` - All things about Docker/Podman containers
 * `Kubernetes` - The core Kubernetes concepts
+* `Helm` - Package manager for Kubernetes
 * `Observability` - Observability and telemetry related workshops.
 * `Azure Kubernetes` - For the Azure Managed Kubernetes Service.
 * `Openshift` - All the Openshift-related material.

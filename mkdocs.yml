@@ -30,6 +30,11 @@ nav:
     - Container Registries: containers/container-registries.md
   - Kubernetes:
     - Getting started: kubernetes/index.md
+    - Deploying Kubernetes:
+      - Getting started: kubernetes/deploy/index.md
+      - Minikube: kubernetes/deploy/deploy-minikube.md
+      - Kind: kubernetes/deploy/deploy-kind.md
+      - Advanced Kind: kubernetes/deploy/advanced-kind.md 
     - Kubeconfig: kubernetes/config.md
     - Explore the cluster: kubernetes/cluster.md
     - Deploy an app: kubernetes/deploy.md
@@ -50,6 +55,8 @@ nav:
       - Advanced: kubernetes/advanced/index.md
       - Init Containers: kubernetes/advanced/init-containers.md
       - Rolling Upgrades: kubernetes/advanced/rolling-upgrades.md
+      - Pod Deletion: kubernetes/advanced/pod-deletion.md
+      - Access the Kubernetes API: kubernetes/advanced/access-kube-api.md
     - Cluster Management:
       - Nodes: kubernetes/nodes/index.md
     - ConfigMaps and Secrets:
