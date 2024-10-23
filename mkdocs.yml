@@ -37,7 +37,7 @@ nav:
       - Advanced Kind: kubernetes/deploy/advanced-kind.md 
     - Kubeconfig: kubernetes/config.md
     - Explore the cluster: kubernetes/cluster.md
-    - Deploy an app: kubernetes/deploy.md
+    - Deploy an app: kubernetes/deploy-app.md
     - Explore the APIs: kubernetes/api.md
     - Services: kubernetes/services.md
     - Labels and Selectors: kubernetes/labels.md
