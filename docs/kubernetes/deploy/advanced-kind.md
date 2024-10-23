@@ -19,5 +19,7 @@ Deploy a cluster with Cilium and MetalLB:
 Check that Cilium and MetalLB are deployed
 
 ```bash
-kubectl get po -n c
+kubectl get po -n kube-system -l app.kubernetes.io/name=cilium-agent
+kubectl get po -n metallb-system
+```
 
