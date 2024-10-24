@@ -34,6 +34,7 @@ nav:
       - Getting started: kubernetes/deploy/index.md
       - Minikube: kubernetes/deploy/deploy-minikube.md
       - Kind: kubernetes/deploy/deploy-kind.md
+      - Kubeadm: kubernetes/deploy/deploy-kubeadm.md
       - Advanced Kind: kubernetes/deploy/advanced-kind.md 
     - Kubeconfig: kubernetes/config.md
     - Explore the cluster: kubernetes/cluster.md
@@ -65,8 +66,8 @@ nav:
       - CLIs: kubernetes/cli/index.md
       - kubectl: kubernetes/cli/kubectl.md
       - kubectx: kubernetes/cli/kubectx.md
-      - minikube: kubernetes/cli/minikube.md
-      - kubeadm: kubernetes/cli/kubeadm.md
+      - minikube: kubernetes/deploy/deploy-minikube.md
+      - kubeadm: kubernetes/deploy/deploy-kubeadm.md
       - krew: kubernetes/cli/krew.md
       - Completion: kubernetes/cli/completion.md
       - Docker Desktop: kubernetes/cli/docker-desktop.md
