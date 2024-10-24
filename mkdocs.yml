@@ -58,6 +58,8 @@ nav:
       - Rolling Upgrades: kubernetes/advanced/rolling-upgrades.md
       - Pod Deletion: kubernetes/advanced/pod-deletion.md
       - Access the Kubernetes API: kubernetes/advanced/access-kube-api.md
+      - Custom Resource Definitions: kubernetes/advanced/crds.md
+      - Debugging: kubernetes/advanced/debugging.md
     - Cluster Management:
       - Nodes: kubernetes/nodes/index.md
     - ConfigMaps and Secrets:
