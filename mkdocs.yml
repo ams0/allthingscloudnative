@@ -48,6 +48,11 @@ nav:
       - Workloads: kubernetes/workloads/index.md
       - StatefulSets: kubernetes/workloads/statefulsets.md
       - Jobs and Cronjobs: kubernetes/workloads/job-cronjob.md
+    - Storage:
+      - Storage: kubernetes/storage/index.md
+      - Persistent Volumes: kubernetes/storage/persistent-volumes.md
+      - Storage Classes: kubernetes/storage/storage-classes.md
+      - Dynamic Provisioning: kubernetes/storage/dynamic-provisioning.md
     - Networking:
       - Networking: kubernetes/networking/index.md
       - DNS: kubernetes/networking/dns.md
