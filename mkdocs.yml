@@ -53,7 +53,7 @@ nav:
       - Persistent Volumes: kubernetes/storage/persistent-volumes.md
       - Storage Classes: kubernetes/storage/storage-classes.md
       - Dynamic Provisioning: kubernetes/storage/
-      - StatefulSets:
+      - StatefulSets: kubernetes/storage/statefulsets.md
     - Networking:
       - Networking: kubernetes/networking/index.md
       - DNS: kubernetes/networking/dns.md
