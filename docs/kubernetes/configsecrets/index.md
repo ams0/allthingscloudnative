@@ -30,7 +30,7 @@ Create a simple pod that consumes the ConfigMap
 
 ```bash
 $|kubectl apply -f - <<EOF
-heredoc> apiVersion: v1
+apiVersion: v1
 kind: Pod
 metadata:
   name: shell-demo
