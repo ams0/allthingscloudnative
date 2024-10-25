@@ -28,56 +28,30 @@ spec:
 EOF
 
 
-Create a Network Policy named `net-ingress` such that only pods with label app=busybox will be about to make request to these nginx pods on port 80 .
+Create a policy to block all traffic to nginx pods except for pods with label access=true
 
 ```bash
 kubectl apply -f - <<EOF
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
 metadata:
-  name: net-ingress
-  namespace: default
+  name: access-nginx
 spec:
   podSelector:
     matchLabels:
       app: nginx
-  policyTypes:
-  - Ingress
   ingress:
   - from:
     - podSelector:
         matchLabels:
-          app: busybox
-    ports:
-    - protocol: TCP
-      port: 80
+          access: "true"
 EOF
 ```
 
-Create an Egress policy
+Allow the busybox pod to access nginx pods 
 
 ```bash
-kubectl apply -f - <<EOF
-apiVersion: networking.k8s.io/v1
-kind: NetworkPolicy
-metadata:
-  name: net-egress
-  namespace: default
-spec:
-  podSelector:
-    matchLabels:
-      run: busybox
-  policyTypes:
-  - Egress
-  egress:
-  - to:
-    - podSelector:
-        matchLabels:
-          run: nginx
-    ports:
-    - protocol: TCP
-      port: 8080
-EOF
+kubectl label po busybox access=true
 ```
 
 
