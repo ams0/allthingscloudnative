@@ -48,6 +48,7 @@ nav:
       - Workloads: kubernetes/workloads/index.md
       - StatefulSets: kubernetes/workloads/statefulsets.md
       - Jobs and Cronjobs: kubernetes/workloads/job-cronjob.md
+      - PodDisruptionBudget: kubernetes/workloads/pdb.md
     - Storage:
       - Storage: kubernetes/storage/index.md
       - Persistent Volumes: kubernetes/storage/persistent-volumes.md
